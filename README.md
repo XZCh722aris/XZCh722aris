@@ -1,11 +1,8 @@
-Hi, I’m Bayiha Hesed Charis @XZCh722aris
-I’m interested in Robotics and software Enginering.
-I’m currently learning Software engineering at Dale Kietzman
-I’m looking to collaborate on robotics softwares.
-How to reach me?? hesed78charis1227@gmail.com
-Fun fact: I'm not funny!!
+# **Bayiha Hesed Charis**  
+🔹 **Systems Engineer | Robotics & Computational Sciences | Algorithm Design**  
 
-<!---
-XZCh722aris/XZCh722aris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔹 About Me  
+Interested in **systems programming**, **compiler design**, **computer architecture**, **high-performance computing**, **data compression & encryption**, **graphics programming**, **computer vision**, **robotics**, **path planning**, **SLAM**, and **algorithm optimization**. I enjoy working on **low-level architecture, control systems, AI-driven tools, and computational models**. 
+
+## Contact & Socials  
+Email: `hesed78charis1227@gmail.com`  
